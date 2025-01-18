@@ -1,13 +1,23 @@
-<h1 >💫 Hi, I'm Gary! A full-stack developer based in Sydney</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=💫+Hi+I'm+Gary+!;" />
+</h1>
 
+<h3 align="center">A passionate full-stack developer based in Sydney</h3>
 
+<br/>
+
+<div align="center">
+  
 🚀 Currently grinding in Next.js and ASP.NET Core
-<br>💡 Open to all kinds of technologies
-<br>⭐ Aiming to become a lifelong learner
 
+💡 Open to all kinds of technologies
+
+⭐ Aiming to become a lifelong learner
+
+</div>
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
