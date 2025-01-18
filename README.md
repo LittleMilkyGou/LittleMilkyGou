@@ -48,15 +48,19 @@
 
 <img
   src="/images/readme.webp"
-  width="335"
+  style="width: 38%;max-width:335px"
   alt="Keep Coding"
   align="right"
 />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleMilkyGou&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak Stats" style="width: 55%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleMilkyGou&theme=github_dark_dimmed&hide_border=true&langs_count=6&layout=compact" alt="Top Languages" >
+</div>
 
-
+<!-- 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LittleMilkyGou&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleMilkyGou&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=My%20Languages)
-
+-->
 
 <picture>
   <!-- Use the source element to specify images based on the browser's theme -->
