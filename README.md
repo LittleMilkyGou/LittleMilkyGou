@@ -1,7 +1,13 @@
-<h1>💫Hi, I'm Gary</h1>
-<p> I am a passionate full-stack developer with a deep fascination for technology, and I am relentlessly grinding both frontend and backend technologies</p>
-<h2>🚀</h2>
-<div align="center">
+<h1 >💫 Hi, I'm Gary! A full-stack developer based in Sydney</h1>
+
+
+🚀 Currently grinding in Next.js and ASP.NET Core
+<br>💡 Open to all kinds of technologies
+<br>⭐ Aiming to become a lifelong learner
+
+<br>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -22,6 +28,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
@@ -32,11 +40,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
 </div>
+<h2></h2>
 
-###
+
 
 <div align="right">
   <img height="300" src=""  />
