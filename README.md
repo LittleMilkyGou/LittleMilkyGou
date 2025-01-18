@@ -55,7 +55,7 @@
 />
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleMilkyGou&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak Stats" style="width: 55%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleMilkyGou&theme=github_dark_dimmed&hide_border=true&langs_count=6&layout=compact&custom_title=🔥%20My%20Languages" alt="Top Languages" style="width: 35%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleMilkyGou&theme=github_dark_dimmed&hide_border=true&langs_count=6&layout=compact&custom_title=🔥%20My%20Languages" alt="Top Languages" style="width: 34%;">
 </div>
 
 <!-- 
