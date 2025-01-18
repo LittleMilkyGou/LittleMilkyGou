@@ -48,7 +48,7 @@
 
 <img
   src="/images/readme.webp"
-  width="345"
+  width="335"
   alt="Keep Coding"
   align="right"
 />
