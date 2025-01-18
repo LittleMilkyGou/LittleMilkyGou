@@ -43,17 +43,20 @@
 </div>
 <h2></h2>
 
+  
 
 
-<div align="right">
-  <img height="300" src=""  />
-</div>
-
-###
+<img
+  src="/images/readme.webp"
+  width="345"
+  alt="Keep Coding"
+  align="right"
+/>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LittleMilkyGou&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleMilkyGou&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleMilkyGou&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=My%20Languages)
+
 
 <picture>
   <!-- Use the source element to specify images based on the browser's theme -->
